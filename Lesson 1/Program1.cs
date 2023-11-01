@@ -1,8 +1,8 @@
 namespace DeveloperC;
 
-internal class Program
+internal class Program1
 {
-    protected Program()
+    protected Program1()
     {
     }
 
