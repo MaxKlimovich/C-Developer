@@ -1,6 +1,6 @@
 namespace DeveloperC;
 
-public class Lesson1
+public class Task1
 {
     
 }
